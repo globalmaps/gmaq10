@@ -5,7 +5,7 @@
 ![inquiry](https://globalmaps.github.io/globalmaps/inquiry.png)
 
 ## note
-Notice: The Global Map Antarctica was developed based on the Extended Specifications for Global Map Antarctica. Some parts, like the data structures, are different from other data of Global Map.
+Notice: The Global Map Antarctica was developed based on [the Extended Specifications for Global Map Antarctica](060615ATA_SPECIFICATIONS.pdf). Some parts, like the data structures, are different from other data of Global Map.
 
 Credit: "Global Map of Antarctica © ISCGM / SCAR"
 

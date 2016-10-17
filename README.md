@@ -13,3 +13,6 @@ Contact: SCAR
 
 E-mail: ![email](https://www.iscgm.org/gmd/images/email/antarctica.png)
 
+## WGS84 versions
+WGS84 versions (wgs84*.shp) are prepared by the Secretariat of ISCGM by "ruby wgs84.rb | sh".
+

@@ -11,7 +11,7 @@ Credit: "Global Map of Antarctica © ISCGM / SCAR"
 
 Contact: SCAR 
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/antarctica.png)
+E-mail: ![email](email.png)
 
 ## WGS84 versions
 WGS84 versions (wgs84*.shp) are prepared by the Secretariat of ISCGM by "ruby wgs84.rb | sh".
